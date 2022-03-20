@@ -6,7 +6,7 @@ import Phone from './components/Phone/Phone';
 function App() {
   return (
     <div className="App">
-     <Phone name='Symphone'></Phone>
+     <Phone name='Symphone' price='87856'></Phone>
     </div>
   );
   };
